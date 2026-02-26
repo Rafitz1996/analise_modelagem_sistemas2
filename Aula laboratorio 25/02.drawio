@@ -4,6 +4,44 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VhtDUTLegvsPkrSS5a8T-23" edge="1" parent="1" source="VhtDUTLegvsPkrSS5a8T-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VhtDUTLegvsPkrSS5a8T-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1. CADASTRO DO CLIENTE" vertex="1">
+          <mxGeometry height="60" width="150" x="30" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VhtDUTLegvsPkrSS5a8T-22" edge="1" parent="1" source="VhtDUTLegvsPkrSS5a8T-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VhtDUTLegvsPkrSS5a8T-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2. LIVROS" vertex="1">
+          <mxGeometry height="60" width="140" x="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VhtDUTLegvsPkrSS5a8T-26" edge="1" parent="1" source="VhtDUTLegvsPkrSS5a8T-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="482" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VhtDUTLegvsPkrSS5a8T-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3. CLUBE DO LIVRO" vertex="1">
+          <mxGeometry height="60" width="136" x="414" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VhtDUTLegvsPkrSS5a8T-28" edge="1" parent="1" source="VhtDUTLegvsPkrSS5a8T-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VhtDUTLegvsPkrSS5a8T-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4. CASHBACK" vertex="1">
+          <mxGeometry height="60" width="140" x="410" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VhtDUTLegvsPkrSS5a8T-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="5. CAFETERIA" vertex="1">
+          <mxGeometry height="60" width="140" x="230" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VhtDUTLegvsPkrSS5a8T-30" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" value="DUVIDAS E QUESTIONAMENTOS&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. COMO SERÁ A AVALIAÇÃO PARA DESCOBRIR O HUMOR DO CLIENTE?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. O TOTEM TERÁ SEPARAÇÃO DOS LIVROS POR CATEGORIA/GÊNERO?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. COMO IRÁ FUNCIONAR O SISTEMA DE CASHBACK? VIA TICKET OU DESCONTO NO FINAL DA COMPRA?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="245" width="245" x="30" y="250" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
