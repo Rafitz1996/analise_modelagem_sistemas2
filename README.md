@@ -2,3 +2,5 @@
 Analise e Modelagem de Sistemas 
 ADS Anhanguera 1* Semestre 
 Professor Nicolas Vogiantzis
+Projeto Totem na Livraria
+Alunos: Pedro Amorim, Rafael GUstabo, Felipe Rodrigues, Bruno Luiz, Guilherme Braga e Higor Rodrigues. 
